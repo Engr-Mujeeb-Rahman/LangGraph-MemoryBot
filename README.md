@@ -19,5 +19,5 @@ It uses **Google Gemini LLM** for AI responses and supports multiple chat thread
 ## Clone the repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/LangGraph-MemoryBot-Persistent.git
+git clone https://github.com/Engr-Mujeeb-Rahman/LangGraph-MemoryBot-Persistent.git
 cd LangGraph-MemoryBot-Persistent
